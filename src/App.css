@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.night {
+  background-color: black;
+}
+
+.day {
+  background-color: rgb(156, 236, 247);
+  font-weight: bold;
+}
